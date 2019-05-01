@@ -1,2 +1,3 @@
 
-Fundamentos de git, commit 2 
+Fundamentos de git, commit 2
+Preparados para el commit 3 
